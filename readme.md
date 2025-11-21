@@ -1,6 +1,6 @@
 # Intel oneAPI Learning Roadmap
 
-I'll create a comprehensive roadmap for you to learn Intel oneAPI from scratch, focusing on GenAI and deep learning use cases.Now I have enough information to create a comprehensive roadmap. Let me create this for you.I've created a comprehensive roadmap for you. Let me provide a summary and additional context:
+
 
 ## Summary of Your Intel oneAPI Learning Path
 
